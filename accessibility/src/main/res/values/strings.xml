@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android Agent</string>
+    <string name="accessibility_description">Allows the agent to inspect screen controls and perform actions you request.</string>
+    <string name="ax_service_description">允许 Android Agent 读取当前界面的语义控件，并在任务需要时执行点击、输入、滚动和返回。</string>
+    <string name="ax_service_summary">ZCode 手机界面操作</string>
+</resources>

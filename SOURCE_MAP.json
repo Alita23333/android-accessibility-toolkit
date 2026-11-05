@@ -1,0 +1,44 @@
+[
+  {
+    "originalPath": "app/src/main/java/dev/alita/androidagent/device/AgentAccessibilityService.kt",
+    "publishedPath": "accessibility/src/main/java/dev/alita/androidagent/device/AgentAccessibilityService.kt",
+    "originalSha256": "76559ab2c5937941c6d55d747ef487bf853f67e859cdf1d4d9f1304667021ac7",
+    "publishedSha256": "76559ab2c5937941c6d55d747ef487bf853f67e859cdf1d4d9f1304667021ac7",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/assets/zcode-runtime/ui-tree.cjs",
+    "publishedPath": "runtime/ui-tree.cjs",
+    "originalSha256": "983179097d1932531a961df4120f507b32f8defb7782f10de5a3a4398af43849",
+    "publishedSha256": "983179097d1932531a961df4120f507b32f8defb7782f10de5a3a4398af43849",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/res/xml/accessibility_service_config.xml",
+    "publishedPath": "accessibility/src/main/res/xml/accessibility_service_config.xml",
+    "originalSha256": "a906b12670a4c0543604e99eb5b8cf50eb31d6f5ea39d6aaa46c4bb4c3ea2291",
+    "publishedSha256": "a906b12670a4c0543604e99eb5b8cf50eb31d6f5ea39d6aaa46c4bb4c3ea2291",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/main/res/values/strings.xml",
+    "publishedPath": "accessibility/src/main/res/values/strings.xml",
+    "originalSha256": "314619d265eb2c056996850fb6cfc47de6894d031bb49ccfe6bf6a8341513be6",
+    "publishedSha256": "314619d265eb2c056996850fb6cfc47de6894d031bb49ccfe6bf6a8341513be6",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "app/src/debug/java/dev/alita/androidagent/zcode/runtime/UiLabActivity.kt",
+    "publishedPath": "reference/UiLabActivity.kt",
+    "originalSha256": "b72dd374bbc08d5e841d32eeeed66e8e48087ec64b61fdf24534f054df999c8c",
+    "publishedSha256": "b72dd374bbc08d5e841d32eeeed66e8e48087ec64b61fdf24534f054df999c8c",
+    "change": "byte-identical"
+  },
+  {
+    "originalPath": "tools/phase8/ui-boundary-regression.cjs",
+    "publishedPath": "reference/ui-boundary-regression.cjs",
+    "originalSha256": "21d22986967ca249938f9f621224721ffcd0e015f8326667e8aafea9f9ac090a",
+    "publishedSha256": "21d22986967ca249938f9f621224721ffcd0e015f8326667e8aafea9f9ac090a",
+    "change": "byte-identical"
+  }
+]

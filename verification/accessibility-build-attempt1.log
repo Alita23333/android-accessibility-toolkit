@@ -1,0 +1,36 @@
+Warning: SDK processing. This version only understands SDK XML versions up to 3 but an SDK XML file of version 4 was encountered. This can happen if you use versions of Android Studio and the command-line tools that were released at different times.
+> Task :accessibility:preBuild UP-TO-DATE
+> Task :accessibility:preDebugBuild UP-TO-DATE
+> Task :accessibility:mergeDebugJniLibFolders
+> Task :accessibility:mergeDebugNativeLibs NO-SOURCE
+> Task :accessibility:stripDebugDebugSymbols NO-SOURCE
+> Task :accessibility:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :accessibility:copyDebugJniLibsProjectAndLocalJars
+> Task :accessibility:generateDebugResValues
+> Task :accessibility:generateDebugResources
+> Task :accessibility:packageDebugResources
+> Task :accessibility:extractDeepLinksForAarDebug
+> Task :accessibility:javaPreCompileDebug
+> Task :accessibility:mergeDebugShaders
+> Task :accessibility:compileDebugShaders NO-SOURCE
+> Task :accessibility:generateDebugAssets UP-TO-DATE
+> Task :accessibility:packageDebugAssets
+> Task :accessibility:prepareDebugArtProfile
+> Task :accessibility:prepareLintJarForPublish
+> Task :accessibility:parseDebugLocalResources
+> Task :accessibility:writeDebugAarMetadata
+> Task :accessibility:generateDebugRFile
+> Task :accessibility:processDebugManifest
+> Task :accessibility:compileDebugKotlin
+> Task :accessibility:extractDebugAnnotations
+> Task :accessibility:compileDebugJavaWithJavac NO-SOURCE
+> Task :accessibility:mergeDebugGeneratedProguardFiles
+> Task :accessibility:mergeDebugConsumerProguardFiles
+> Task :accessibility:processDebugJavaRes
+> Task :accessibility:mergeDebugJavaResource
+> Task :accessibility:syncDebugLibJars
+> Task :accessibility:bundleDebugAar
+> Task :accessibility:assembleDebug
+
+BUILD SUCCESSFUL in 12s
+23 actionable tasks: 23 executed

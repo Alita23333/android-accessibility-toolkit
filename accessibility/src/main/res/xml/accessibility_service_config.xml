@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Phase 8 W1 (runbook 7.1). flagRetrieveInteractiveWindows is required for
+     getWindows(); flagReportViewIds is required and off by default (stable,
+     locale-independent row addressing). isAccessibilityTool=false is the
+     honest declaration (not a disability-assistive tool). -->
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/ax_service_description"
+    android:summary="@string/ax_service_summary"
+    android:accessibilityEventTypes="typeWindowStateChanged|typeWindowContentChanged|typeWindowsChanged|typeViewClicked|typeViewLongClicked|typeViewScrolled|typeViewFocused|typeViewTextChanged|typeNotificationStateChanged"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:accessibilityFlags="flagRetrieveInteractiveWindows|flagReportViewIds"
+    android:notificationTimeout="100"
+    android:canRetrieveWindowContent="true"
+    android:canPerformGestures="true"
+    android:canTakeScreenshot="true"
+    android:isAccessibilityTool="false"
+    android:settingsActivity="dev.alita.androidagent.MainActivity" />
